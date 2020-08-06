@@ -1,1 +1,1 @@
-# HACKATHON
+# Smart Thapar Hackathon
